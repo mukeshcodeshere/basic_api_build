@@ -1,0 +1,1 @@
+Simple REST API built on Django Framework
